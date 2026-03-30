@@ -47,6 +47,7 @@ LinkedIn
 # Task 3 – Platforms Exploration
 Completed a beginner coding challenge
 Created a Google Form quiz on digital literacy
+link= https://docs.google.com/forms/d/e/1FAIpQLSe9dql6o_6ZnOywFikYzB5S5lDO6QM7nPmn8zyzxS5wVj_Ieg/viewform?usp=publish-editor
 
 = Helped me understand collaboration and practice platforms.
 
